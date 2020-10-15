@@ -27,14 +27,6 @@ body {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-#calculator h2 {
-  margin-left: 40px;
-  position: relative;
-  color: slateblue;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 26px;
-}
-
 #result {
   height: 120px;
 }
